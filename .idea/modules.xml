@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number_Base_Converter.iml" filepath="$PROJECT_DIR$/.idea/modules/Number_Base_Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Number Base Converter/task/Number_Base_Converter.Number_Base_Converter-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Number_Base_Converter.util.test.iml" />
+    </modules>
+  </component>
+</project>
